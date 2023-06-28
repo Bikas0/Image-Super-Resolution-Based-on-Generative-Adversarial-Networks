@@ -230,6 +230,8 @@ for e in range(epochs):
     print("epoch:", e+1 ,"g_loss:", g_loss, "d_loss:", d_loss)
     generator.save("/content/drive/MyDrive/Experiment/ganlr99.h5")
 ``` 
+![my_plots](https://github.com/Bikas0/Image-Super-Resolution-Based-on-Generative-Adversarial-Networks/assets/66817101/21297d92-85be-4400-876a-40ce37c6199d)
+
 
 Load the model & Test the model from different low resolution image to Super Resolution image and calculate the PSNR & SSIM. 
 
@@ -307,7 +309,9 @@ plt.show()
 
 
 Output: 
-![alt text](https://drive.google.com/file/d/1pftJUAoq6lHuHU3F-Gg0vMB5NXv4aly5/view?usp=drivesdk) 
+![result](https://github.com/Bikas0/Image-Super-Resolution-Based-on-Generative-Adversarial-Networks/assets/66817101/46c9af91-ffd0-43d2-b6c8-4a54ab0570de)
+
+
 
 
 
