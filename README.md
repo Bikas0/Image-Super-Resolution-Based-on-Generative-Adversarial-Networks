@@ -306,6 +306,9 @@ plt.show()
 ```
 
 
+Output: 
+![alt text](https://drive.google.com/file/d/1pftJUAoq6lHuHU3F-Gg0vMB5NXv4aly5/view?usp=drivesdk) 
+
 
 
 
